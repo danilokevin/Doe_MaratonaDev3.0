@@ -16,5 +16,5 @@ Node.js | Javascript | Html | CSS | PostgreSQL
 
 ![2](https://user-images.githubusercontent.com/61991179/78097172-ee248d80-73b1-11ea-8d7c-f121577962d6.PNG)
 
-<h2>Licensa</h2>
+<h2>Licença</h2>
 https://rocketseat.com.br/
