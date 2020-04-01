@@ -1,12 +1,12 @@
 # Doe_MaratonaDev3.0
 "Incentivar, encontrar e registrar doadores de sangue".
-MaratonaDev 3.0 - DOE Sangue
- 
 
 Projeto DOE Sangue Desenvolvido durante a 3ª Edição da MaratonaDev da Rocketseat.
 
-<h1>Ferramentas</h1>
+<h2>Ferramentas</h2>
 Node.js | Javascript | Html | CSS | PostgreSQL 
+
+<h2>Front-end</h2>
 
 (Sem formulário)
 
@@ -15,3 +15,6 @@ Node.js | Javascript | Html | CSS | PostgreSQL
 (Com formulário)
 
 ![2](https://user-images.githubusercontent.com/61991179/78097172-ee248d80-73b1-11ea-8d7c-f121577962d6.PNG)
+
+<h2>Licensa</h2>
+https://rocketseat.com.br/
